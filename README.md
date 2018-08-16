@@ -13,7 +13,7 @@
 [![cover][cover]][cover-url]
 [![size][size]][size-url]
 
-A Fixed Width Value Parser.
+A ⚡️ crazy fast streaming ⚡️ Fixed Width Value Parser
 
 This module is mostly useful to folks who have to parse
 [fixed-width format files](https://goo.gl/gGFdtw). Fixed-width files are often
