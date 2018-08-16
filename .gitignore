@@ -1,0 +1,11 @@
+.DS_Store
+.eslintcache
+.idea
+.vscode
+npm-debug.log*
+Thumbs.db
+/coverage
+/dist
+/local
+/node_modules
+/reports
